@@ -15,11 +15,12 @@
 
 
 
-
 ## :robot:2. Machine-Learning based methods
+
+
+## :robot:2. machine-learning based methods
  1. `['Distributed and parallel databases '2018]` Scalable Machine Learning Computing a Data Summarization Matrix with a Parallel Array DBMS [[PDF](https://www2.cs.uh.edu/~ordonez/pdfwww/w-2019-DAPD-gammacloud.pdf)], [[Code](нч)]
  2. `['Indonesian Journal of Electrical Engineering and Computer Science '2024]` Machine learning approach for intrusion detection system using dimensionality reduction [[PDF](https://www.semanticscholar.org/reader/6ef52f321b5c2e850678af7c2246c55ae55e597e)], [[Code](нч)]
-
 
 
 ## :printer:3. Deep-Learning based methods
@@ -27,5 +28,7 @@
 
 
 
-
 ## :fire:4. Datasets and Benchmarks
+
+
+
